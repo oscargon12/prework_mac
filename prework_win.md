@@ -37,7 +37,7 @@
 
 - Si al ingresar el mismo comando sale el `error: 0x1bc`, entonces...
 
-  descargar _WSL2 Linux kernel update package for x64 machines_
+  descargar _WSL2 Linux kernel update package for x64 machines_  [Acá](https://docs.microsoft.com/es-es/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
 
 7. consultar la versión del WSL con _wsl -l -v_ esto dira que no tengo distros instaladas
 
